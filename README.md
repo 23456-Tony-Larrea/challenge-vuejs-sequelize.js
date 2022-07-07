@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+##el projecto se realizo con las teconoglogias de javascript lo que es sequilze.js y vue.js en un framework de vuetify 
